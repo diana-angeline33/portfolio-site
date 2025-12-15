@@ -1,2 +1,2 @@
 # Portfolio Site
-This is a placeholder repository for my portfolio website.
+This is my personal portfolio website for MAI applications and project showcases.
